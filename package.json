@@ -1,0 +1,16 @@
+{
+  "name": "com.vues.unitypackage",
+  "displayName": "Vues Unity Package",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "A reusable Unity package for Vues projects. It includes a set of tools and utilities to help you build your project. See the documentation for more information.",
+  "documentationUrl": "https://github.com/vues-dev/VuesUnityPackage",
+  "changelogUrl": "https://github.com/vues-dev/VuesUnityPackage/releases",
+  "author": {
+    "name": "Evgeny Shestakov and Vitaly Udenkov",
+    "url": "https://github.com/vues-dev/VuesUnityPackage"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.2.2"
+  }
+}
